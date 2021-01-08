@@ -37,4 +37,4 @@ def list2(page_names):
 
 
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True)
